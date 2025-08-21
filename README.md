@@ -11,5 +11,6 @@ This repository contains Gnome Shell Extension settings.
 5. Click the link to install the browser extension
 You should now be able to see both extensions in the "Installed Extensions" category at the bottom of the page.
 6. Click the wrench and screwdriver icon to go to extension settings
-7. To install ArcMenu settings: Go to "About" tab and click "Load" in the "ArcMenu Settings" box. Load the `arcmenu-settings` file.
+7. To install ArcMenu settings: Go to "About" tab and click "Load" in the "ArcMenu Settings" box. Load the `arcmenu-settings` file
 8. To install Tiling Shell settings: Scroll to bottom of settings. Click "Import" in the "Import, Export, and Reset" category
+9. To install Tiling Shell layouts: Scroll to "Layouts" category. Click "Import layouts" in the "Import layouts" box
